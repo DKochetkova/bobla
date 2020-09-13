@@ -1960,27 +1960,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s6YKBDsmlo {
-  padding-top: 15px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-s6YKBDsmlo .title {
-  margin-bottom: 2rem;
-}
-.cid-s6YKBDsmlo .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s6YKBDsmlo a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s6YKBDsmlo a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s6YKBDsmlo textarea.form-control {
-  min-height: 188px;
-}
 .cid-s78T5PzEPl {
   padding-top: 45px;
   padding-bottom: 45px;
